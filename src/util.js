@@ -1,0 +1,1 @@
+export const pick = key => data => data[key];
